@@ -1,0 +1,26 @@
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking Mini Project Raynard.csprojAssemblyReference.cache
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.Form1.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.Properties.Resources.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking Mini Project Raynard.csproj.GenerateResource.cache
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking Mini Project Raynard.csproj.CoreCompileInputs.cache
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\bin\Debug\Database1.mdf
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\bin\Debug\Database1_log.ldf
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\bin\Debug\Banking Mini Project Raynard.exe.config
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\bin\Debug\Banking Mini Project Raynard.exe
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\bin\Debug\Banking Mini Project Raynard.pdb
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking Mini Project Raynard.exe
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking Mini Project Raynard.pdb
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.CustomerLogin.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.AdminLogin.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.CustomerRegister.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.ForgotPasswordActivity.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.UserInterfaceOfCustomer.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.DepositAndWithdrawActivity.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.ProfileActivity.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.ReceiptActivity.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.LoanActivity.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.PaymentOfLoanActivity.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.AdminRegister.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.AdminCustomerProfileActivity.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.UserInterfaceOfAdmin.resources
+D:\OOPG\Banking Mini Project Raynard\Banking Mini Project Raynard\obj\Debug\Banking_Mini_Project_Raynard.AdminDeleteProfile.resources
